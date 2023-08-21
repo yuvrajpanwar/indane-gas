@@ -17,7 +17,7 @@ background-color: #F66;
 }
 </style>     
  <?php
-$name=common::get_session(ADMIN_LOGIN_NAME);
+// $name=common::get_session(ADMIN_LOGIN_NAME);
 $login_id=common::get_session(ADMIN_LOGIN_USER_ID);
 $login_type=common::get_session(ADMIN_LOGIN_TYPE);
 

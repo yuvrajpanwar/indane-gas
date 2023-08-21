@@ -10,6 +10,7 @@
                 common::redirect_to(common::get_component_link(array('user','dashboard')));
             else
                 common::redirect_to(common::get_component_link(array('user','dashboard')));*/
+
 			if(common::get_session(ADMIN_LOGIN_TYPE)=="admin")
                 common::redirect_to(common::get_component_link(array('add_order','add')));
             else

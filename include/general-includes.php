@@ -1,5 +1,5 @@
 <?php session_start();
- 	error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
+ 	error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED & ~E_WARNING);
 	require_once dirname(__FILE__).'/../elements/config.php';
 	require_once dirname(__FILE__).'/../class/clsconnection.php';
 	require_once dirname(__FILE__).'/../class/clsquery.php';

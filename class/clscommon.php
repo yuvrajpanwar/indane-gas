@@ -667,7 +667,7 @@
 						$aruser = mysqli_fetch_assoc($rsuser);
 
 						self::set_session(ADMIN_LOGIN_USER_ID, common::get_value($aruser['id']));
-						self::set_session(ADMIN_LOGIN_NAME, common::get_value($aruser['name']));
+						// self::set_session(ADMIN_LOGIN_NAME, common::get_value($aruser['name']));
                         self::set_session(ADMIN_LOGIN_TYPE,common::get_value($aruser['type']));
 						self::set_session(ADMIN_LOGIN_USER_NAME, common::get_value($aruser['username']));
                         if ($remember) {
@@ -712,7 +712,9 @@
 
 				public static function is_user_loggedin ( ) {
                     
-					return self::check_session(ADMIN_LOGIN_USER_ID) || self::check_session(DR_LOGIN_USER_ID);
+					// return self::check_session(ADMIN_LOGIN_USER_ID) || self::check_session(DR_LOGIN_USER_ID);
+					return self::check_session(ADMIN_LOGIN_USER_ID);
+
 
 				}
                 public static function user_access_only($type)
@@ -1076,14 +1078,17 @@ global $c_link;
 													);
 
 						if ( self::is_user_loggedin() ) {
+							
                             if(self::get_session(ADMIN_LOGIN_TYPE)=="admin")
 							$return = array('user', 'dashboard');
+
                             else  if(self::get_session(ADMIN_LOGIN_TYPE)=="doctor")
                             $return = array('doctor', 'dashboard');	
 
-						}else if(self::check_session(DR_LOGIN_USER_ID) && self::check_session(DR_LOGIN_USER_NAME)){
-						      $return = array('doctor', 'dashboard');
 						}
+						// else if(self::check_session(DR_LOGIN_USER_ID) && self::check_session(DR_LOGIN_USER_NAME)){
+						//       $return = array('doctor', 'dashboard');
+						// }
 
 					}
 
@@ -1499,7 +1504,7 @@ public static function my_str_split($string)
       $slen=strlen($string);
       for($i=0; $i<$slen; $i++)
       {
-         $sArray[$i]=$string{$i};
+         $sArray[$i]=$string[$i];
       }
       return $sArray;
    }
@@ -1510,7 +1515,7 @@ public static   function noDiacritics($string)
       $cyrylicTo   = array('A', 'B', 'W', 'G', 'D', 'Ie', 'Io', 'Z', 'Z', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'R', 'S', 'T', 'U', 'F', 'Ch', 'C', 'Tch', 'Sh', 'Shtch', '', 'Y', '', 'E', 'Iu', 'Ia', 'a', 'b', 'w', 'g', 'd', 'ie', 'io', 'z', 'z', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'f', 'ch', 'c', 'tch', 'sh', 'shtch', '', 'y', '', 'e', 'iu', 'ia'); 
  
       
-      $from = array("Á", "À", "Â", "Ä", "A", "A", "Ã", "Å", "A", "Æ", "C", "C", "C", "C", "Ç", "D", "Ð", "Ð", "É", "È", "E", "Ê", "Ë", "E", "E", "E", "?", "G", "G", "G", "G", "á", "à", "â", "ä", "a", "a", "ã", "å", "a", "æ", "c", "c", "c", "c", "ç", "d", "d", "ð", "é", "è", "e", "ê", "ë", "e", "e", "e", "?", "g", "g", "g", "g", "H", "H", "I", "Í", "Ì", "I", "Î", "Ï", "I", "I", "?", "J", "K", "L", "L", "N", "N", "Ñ", "N", "Ó", "Ò", "Ô", "Ö", "Õ", "O", "Ø", "O", "Œ", "h", "h", "i", "í", "ì", "i", "î", "ï", "i", "i", "?", "j", "k", "l", "l", "n", "n", "ñ", "n", "ó", "ò", "ô", "ö", "õ", "o", "ø", "o", "œ", "R", "R", "S", "S", "Š", "S", "T", "T", "Þ", "Ú", "Ù", "Û", "Ü", "U", "U", "U", "U", "U", "U", "W", "Ý", "Y", "Ÿ", "Z", "Z", "Ž", "r", "r", "s", "s", "š", "s", "ß", "t", "t", "þ", "ú", "ù", "û", "ü", "u", "u", "u", "u", "u", "u", "w", "ý", "y", "ÿ", "z", "z", "ž");
+      $from = array("ï¿½", "ï¿½", "ï¿½", "ï¿½", "A", "A", "ï¿½", "ï¿½", "A", "ï¿½", "C", "C", "C", "C", "ï¿½", "D", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "E", "ï¿½", "ï¿½", "E", "E", "E", "?", "G", "G", "G", "G", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "a", "a", "ï¿½", "ï¿½", "a", "ï¿½", "c", "c", "c", "c", "ï¿½", "d", "d", "ï¿½", "ï¿½", "ï¿½", "e", "ï¿½", "ï¿½", "e", "e", "e", "?", "g", "g", "g", "g", "H", "H", "I", "ï¿½", "ï¿½", "I", "ï¿½", "ï¿½", "I", "I", "?", "J", "K", "L", "L", "N", "N", "ï¿½", "N", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "O", "ï¿½", "O", "ï¿½", "h", "h", "i", "ï¿½", "ï¿½", "i", "ï¿½", "ï¿½", "i", "i", "?", "j", "k", "l", "l", "n", "n", "ï¿½", "n", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "o", "ï¿½", "o", "ï¿½", "R", "R", "S", "S", "ï¿½", "S", "T", "T", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "U", "U", "U", "U", "U", "U", "W", "ï¿½", "Y", "ï¿½", "Z", "Z", "ï¿½", "r", "r", "s", "s", "ï¿½", "s", "ï¿½", "t", "t", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "ï¿½", "u", "u", "u", "u", "u", "u", "w", "ï¿½", "y", "ï¿½", "z", "z", "ï¿½");
       $to   = array("A", "A", "A", "A", "A", "A", "A", "A", "A", "AE", "C", "C", "C", "C", "C", "D", "D", "D", "E", "E", "E", "E", "E", "E", "E", "E", "G", "G", "G", "G", "G", "a", "a", "a", "a", "a", "a", "a", "a", "a", "ae", "c", "c", "c", "c", "c", "d", "d", "d", "e", "e", "e", "e", "e", "e", "e", "e", "g", "g", "g", "g", "g", "H", "H", "I", "I", "I", "I", "I", "I", "I", "I", "IJ", "J", "K", "L", "L", "N", "N", "N", "N", "O", "O", "O", "O", "O", "O", "O", "O", "CE", "h", "h", "i", "i", "i", "i", "i", "i", "i", "i", "ij", "j", "k", "l", "l", "n", "n", "n", "n", "o", "o", "o", "o", "o", "o", "o", "o", "o", "R", "R", "S", "S", "S", "S", "T", "T", "T", "U", "U", "U", "U", "U", "U", "U", "U", "U", "U", "W", "Y", "Y", "Y", "Z", "Z", "Z", "r", "r", "s", "s", "s", "s", "B", "t", "t", "b", "u", "u", "u", "u", "u", "u", "u", "u", "u", "u", "w", "y", "y", "y", "z", "z", "z");
       
       

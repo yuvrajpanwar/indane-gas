@@ -147,11 +147,11 @@ foreach($data1 as $d)
 	$amount=$qty*$rate;
 	$total_amount=$amount+$d["cgst_amount"]+$d["sgst_amount"];
 	//$total_amount=round($total_amount,2);
-	$youSaved=$youSaved+$d["qty"]*$d["discount"];
+	$youSaved=$youSaved +  floatval($d["qty"]) *  floatval($d["discount"]);
 
 	/********************************************* */
 
-	$single_productdiscount=$d["qty"]*$d["discount"];
+	$single_productdiscount= floatval($d["qty"]) *  floatval($d["discount"]);
 	$total_amount1=($total_amount-$single_productdiscount);
 
 	$SPOrg = $total_amount1*100;
