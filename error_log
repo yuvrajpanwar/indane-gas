@@ -1,0 +1,987 @@
+[22-Aug-2019 07:57:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[13-Jan-2020 17:27:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[25-Aug-2020 10:25:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[16-Sep-2020 14:54:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[23-Sep-2020 10:31:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[23-Sep-2020 10:31:23 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[23-Sep-2020 10:31:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/witds7102india/public_html/indane/views/reports/list.php on line 48
+[06-Jun-2021 12:58:36 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[08-Jun-2021 12:45:55 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[08-Jun-2021 12:45:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:13:30 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:13:33 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:13:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:13:48 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:15:07 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:15:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:16:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:16:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:16:50 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:16:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:16:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:17:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:17:07 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:17:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:18:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:18:01 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:18:07 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:09 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:15 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:23 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:40 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:19:41 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:42:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:43:07 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:45:46 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:20 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:21 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:48 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:49 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:46:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:48:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:48:06 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 20:49:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:11:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:12:08 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:12:13 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:12:16 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:12:34 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:18:49 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:19:05 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:19:07 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:20:10 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:20:37 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:41:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:42:59 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[26-Jun-2021 21:44:12 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[06-Jul-2021 11:56:34 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/list.php on line 48
+[06-Jul-2021 12:03:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/list.php on line 48
+[03-Aug-2021 15:37:30 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:37:42 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:37:45 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:37:49 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:37:51 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:37:52 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:38:03 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:38:16 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:38:17 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:38:18 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:39:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:39:26 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:39:27 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:39:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:40:19 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:40:22 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:40:23 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:42:22 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:42:29 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[03-Aug-2021 15:50:53 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:13:28 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:15:56 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:18:14 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:19:32 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:19:57 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[04-Aug-2021 16:19:58 Asia/Kolkata] PHP Fatal error:  Uncaught exception 'Dompdf\Exception' with message 'No block-level parent found.  Not good.' in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php:45
+Stack trace:
+#0 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(872): Dompdf\Positioner\Inline->position(Object(Dompdf\FrameDecorator\Text))
+#1 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Text.php(368): Dompdf\FrameDecorator\AbstractFrameDecorator->position()
+#2 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Text->reflow(NULL)
+#3 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameReflower/Page.php(141): Dompdf\FrameDecorator\AbstractFrameDecorator->reflow()
+#4 /home/tudweh0vzhr4/public_html/indane/dompdf/src/FrameDecorator/AbstractFrameDecorator.php(893): Dompdf\FrameReflower\Page->reflow(NULL)
+#5 /home/tudweh0vzhr4/public_html/indane/dompdf/src/Dompdf.php(831): Dompdf\FrameDecorator\AbstractFrameDecorator->r in /home/tudweh0vzhr4/public_html/indane/dompdf/src/Positioner/Inline.php on line 45
+[10-Aug-2021 14:50:15 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:15 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:22 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:22 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:26 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:26 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:30 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:30 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:41 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:41 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:48 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:48 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:51 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:51 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:52 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:52 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/include/../dompdf/autoload.inc.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/include/general-includes.php on line 17
+[10-Aug-2021 14:50:53 Asia/Kolkata] PHP Warning:  require_once(/home/tudweh0vzhr4/public_html/indane/dompdf/lib/html5lib/Parser.php): failed to open stream: No such file or directory in /home/tudweh0vzhr4/public_html/indane/dompdf/autoload.inc.php on line 11
+[10-Aug-2021 14:50:53 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/tudweh0vzhr4/public_html/indane/dompdf/lib/html5lib/Parser.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/tudweh0vzhr4/public_html/indane/dompdf/autoload.inc.php on line 11
+[17-Nov-2021 15:09:46 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:46 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 15:09:46 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:46 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 15:09:49 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:49 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 15:09:49 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:49 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 15:09:55 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:55 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 15:09:55 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 15:09:55 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 16:51:08 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 16:51:08 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 16:51:08 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 16:51:08 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 16:51:12 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 16:51:12 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[17-Nov-2021 16:51:12 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 715
+[17-Nov-2021 16:51:12 Asia/Kolkata] PHP Warning:  Use of undefined constant DR_LOGIN_USER_ID - assumed 'DR_LOGIN_USER_ID' (this will throw an Error in a future version of PHP) in /home/tudweh0vzhr4/public_html/indane/class/clscommon.php on line 1084
+[07-Feb-2022 17:59:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/updateindanesw/views/reports/list.php on line 48
+[08-Feb-2022 14:40:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:40:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:40:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:40:39 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:40:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:40:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:41:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:41:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:41:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:41:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:42:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:42:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:48:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:48:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:48:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:48:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:50:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:50:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:50:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:50:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:53:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:54:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:54:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:55:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:55:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:56:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:56:11 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 14:57:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:57:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 14:59:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:59:15 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 14:59:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 14:59:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 15:00:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:00:37 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 15:01:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:01:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 15:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:02:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 15:04:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:04:32 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 97
+[08-Feb-2022 15:06:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:06:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 15:07:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:07:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 15:15:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:15:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 15:16:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:16:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 15:22:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:22:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 15:46:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 15:46:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:49 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:19:50 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:24:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:24:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:26:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:26:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:26:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:26:54 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:28:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:28:10 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:32:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:32:43 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:33:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:33:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:33:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:33:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:35:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:36:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:36:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:36:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:36:40 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:00 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:38:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:40:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:40:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:03 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:42:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:43:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:43:57 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:44:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:44:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:45:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:47:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:47:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:16 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:48:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:25 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:53:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:54:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:54:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:55:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:55:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:13 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:56:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:38 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:57:42 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:58:44 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 17:59:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 17:59:21 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:00:30 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:05:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:05:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:06:59 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:07:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:07:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:07:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:07:14 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:07:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:07:19 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:07:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:07:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:08:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:08:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:10:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:10:08 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 87
+[08-Feb-2022 18:10:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:10:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:10:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:10:48 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:11:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:11:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:20:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:20:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:20:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:20:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:20:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:20:26 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:20:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:20:28 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:21:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:21:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:24:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:24:24 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:24:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:24:27 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:28:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:28:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:28:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:28:09 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:29:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:29:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 88
+[08-Feb-2022 18:34:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:34:02 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:34:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:34:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:37:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:37:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:37:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:37:20 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:41:31 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:41:33 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:42:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:42:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:42:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:43:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:43:04 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:43:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:43:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[08-Feb-2022 18:43:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[08-Feb-2022 18:43:07 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:34:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:34:45 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:36:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:36:51 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:37:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:37:12 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:39:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:39:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:41:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:41:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:41:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:41:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:41:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:41:17 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:41:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:41:55 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:45:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:45:35 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:46:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:46:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:46:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:46:58 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:47:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:47:01 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 09:47:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/components/reports/sale_report.php on line 90
+[09-Feb-2022 09:47:05 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/sale_report.php on line 83
+[09-Feb-2022 15:13:20 Asia/Kolkata] PHP Warning:  array_multisort(): Argument #1 is expected to be an array or a sort flag in /home/tudweh0vzhr4/public_html/indane/components/reports/get_excel_formate.php on line 46
+[18-Aug-2022 11:45:41 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/list.php on line 48
+[18-Aug-2022 14:13:29 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/list.php on line 48
+[21-Aug-2022 15:29:52 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/tudweh0vzhr4/public_html/indane/views/reports/list.php on line 48

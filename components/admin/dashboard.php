@@ -1,0 +1,1 @@
+<?php common::user_access_only(0); ?>
