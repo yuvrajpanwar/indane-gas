@@ -1,5 +1,5 @@
 <?php  
-//common::user_access_only("admin");
+
 $login_id=common::get_session(ADMIN_LOGIN_USER_ID);
  if(!$login_id)
  {
@@ -8,9 +8,9 @@ $login_id=common::get_session(ADMIN_LOGIN_USER_ID);
     common::load_model("db");
 	$product_id=common::get_control_value("pro_id");
 	$total_qty=common::get_control_value("pcs");
-	//$product_id=common::get_control_value("pro_id");
+	
 	$data = get_product_amount($product_id);
-	//print_r($data);die();
+	
 	$return_content=0;
 	$rate=$data["price"];
 	$cgst_tax=$data["cgst_tax"];
@@ -29,8 +29,6 @@ $login_id=common::get_session(ADMIN_LOGIN_USER_ID);
     $sgst_amount=round($sgst_amount,2);
     $rate=round($rate,2);
     $final_amount=round($final_amount,2);
-	//$final_amount=round($final_amount,2);
-	
 	
 	$return_content =$rate."-".$cgst_amount."-".$sgst_amount."-".$final_amount;
 	
